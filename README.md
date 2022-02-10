@@ -6,4 +6,22 @@ Good for exhausted people who manually set their global git configuration in the
 
 I know I was tired of that. 
 
+## Installing
+### Macos
+
+* Open a Mac terminal window
+* Install [Homebrew](https://brew.sh/ "Homebrew")
+* Install PowerShell using the following command:
+    ``` brew
+    brew install --cask powershell
+    ```
+* Start Powershell using the following command:
+    ```pwsh
+    pwsh
+    ```
+* Run Application
+    ```pwsh
+    .\setup.ps1
+    ```
+
 Developed by [@tarikguney](https://github.com/tarikguney)
