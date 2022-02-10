@@ -9,8 +9,8 @@ I know I was tired of that.
 ## Installing
 ### Macos
 
-* Open a Mac terminal windows
-* Install Homebrew [Homebrew](https://brew.sh/ "Homebrew")
+* Open a Mac terminal window
+* Install [Homebrew](https://brew.sh/ "Homebrew")
 * Install PowerShell using the following command:
     ``` brew
     brew cask install powershell
