@@ -21,7 +21,7 @@ I know I was tired of that.
     ```
 * Run Application
     ```pwsh
-    .\setup.ps1
+    .\setup.ps1 -e your@emamil.com -n Your Name
     ```
 
 Developed by [@tarikguney](https://github.com/tarikguney)
