@@ -1,0 +1,12 @@
+[alias]
+	su = status -su
+	lagd = log --oneline --decorate --all --graph
+	cam = commit -am
+	cm = commit -m
+	c = checkout
+	cb = checkout -b
+[user]
+	email = <email>
+	name = <name>
+[core]
+	autocrlf = true
