@@ -16,12 +16,12 @@ I know I was tired of that.
     brew install --cask powershell
     ```
 * Start Powershell using the following command:
-```pwsh
-pwsh
-```
+    ```pwsh
+    pwsh
+    ```
 * Run Application
-```pwsh
-.\setup.ps1
-```
+    ```pwsh
+    .\setup.ps1
+    ```
 
 Developed by [@tarikguney](https://github.com/tarikguney)
