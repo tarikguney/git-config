@@ -13,7 +13,7 @@ I know I was tired of that.
 * Install [Homebrew](https://brew.sh/ "Homebrew")
 * Install PowerShell using the following command:
     ``` brew
-    brew cask install powershell
+    brew install --cask powershell
     ```
     
 Developed by [@tarikguney](https://github.com/tarikguney)
